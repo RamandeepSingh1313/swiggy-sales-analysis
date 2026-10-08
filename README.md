@@ -37,6 +37,33 @@ The main objectives of this project are:
 * State-wise Sales
 * Top 5 Cities by Sales
 
+## Project Visualizations
+
+### Monthly Sales Trend
+
+![Monthly Sales](images/monthly_sales.png)
+
+### Daily Sales Trend
+
+![Daily Sales](images/daily_sales.png)
+
+### Weekly Sales Trend
+
+![Weekly Sales](images/weekly_sales.png)
+
+### Veg vs Non-Veg Sales
+
+![Veg vs Non-Veg Sales](images/veg_nonveg_sales.png)
+
+### State-wise Sales
+
+![State-wise Sales](images/state_sales.png)
+
+### Top 5 Cities by Sales
+
+![Top 5 Cities](images/top_5_cities.png)
+
+
 ## Tools & Technologies
 
 * Python
